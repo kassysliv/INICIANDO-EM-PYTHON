@@ -1,0 +1,4 @@
+dia = input (' qual dia voce nasceu?')
+mes = input(' qual mes voce nasceu?')
+ano = input(' que ano voce nasceu?')
+print( 'voce nasceu no' + dia, 'de', mes,"de",ano)
